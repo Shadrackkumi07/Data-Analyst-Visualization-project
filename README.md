@@ -41,7 +41,7 @@ Deliver a **professional-grade** Power BI dashboard that is both visually appeal
 
 ## 📂 **Project Showcase**  
 
-### 1️⃣ Project Name  
+### 1️⃣ Customer Relationship Management PipeLine Analysis
 - Image:<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1QeBzrJLM6qtiBy3X7hBcCfZAAwBa39__" alt="Image 1" style="width: 45%; margin-right: 10px;">
   <img src="https://drive.google.com/uc?export=view&id=1trG4eqjUU2Pft5S7Y9LdH80YkWaXdFy3" alt="Image 2" style="width: 45%;">
